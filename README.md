@@ -64,14 +64,14 @@
 		* [可重入锁 &amp; 不可重入锁](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#可重入锁--不可重入锁)
 		* [互斥锁 &amp; 共享锁](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#互斥锁--共享锁)
 		* [死锁](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#死锁)
-* [操作系统](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#操作系统)
-	* [计算机原理](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#计算机原理)
-	* [CPU](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#cpu)
+* [操作系统](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#操作系统)（over-2018-12-17）
+	* [计算机原理](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#计算机原理)（over-2018-12-17）
+	* [CPU](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#cpu)（over-2018-12-17）
 		* [多级缓存](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#多级缓存)
-	* [进程](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#进程)
-	* [线程](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#线程)
-	* [协程](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#协程)
-	* [Linux](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#linux)
+	* [进程](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#进程)（over-2018-12-17）
+	* [线程](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#线程)（over-2018-12-17）
+	* [协程](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#协程)（over-2018-12-17）
+	* [Linux](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#linux)（over-2018-12-17）
 * [设计模式](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#设计模式)
 	* [设计模式的六大原则](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#设计模式的六大原则)
 	* [23种常见设计模式](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#23种常见设计模式)
